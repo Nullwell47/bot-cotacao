@@ -1,0 +1,20 @@
+1741298240144	geckodriver	INFO	Listening on 127.0.0.1:52589
+1741298243184	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\emanu\\AppData\\Local\\Temp\\rust_mozprofilep5vDKw"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1741298243555	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1741298244008	Marionette	INFO	Listening on port 52603
+Read port: 52603
+1741298244122	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.botcity.dev/, line 25: ReferenceError: Weglot is not defined
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/mixitup/3.3.0/mixitup.min.js, line 16: Error: [MixItUp] An invalid selector or element reference was passed to the mixitup factory function
+JavaScript error: https://www.botcity.dev/, line 315: SyntaxError: redeclaration of const containerEl
+JavaScript error: https://pt-br.botcity.dev/, line 26: ReferenceError: Weglot is not defined
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/mixitup/3.3.0/mixitup.min.js, line 16: Error: [MixItUp] An invalid selector or element reference was passed to the mixitup factory function
+JavaScript error: https://pt-br.botcity.dev/, line 315: SyntaxError: redeclaration of const containerEl
+1741298252127	Marionette	INFO	Stopped listening on port 52603
+JavaScript warning: https://cdn.prod.website-files.com/6487203eebdb29c0fff6af27/js/webflow.4b8a2fb4.73de37286cf9834b.js, line 13: Script terminated by timeout at:
+n@https://cdn.prod.website-files.com/6487203eebdb29c0fff6af27/js/webflow.4b8a2fb4.73de37286cf9834b.js:13:838347
+
+Dynamically enable window occlusion 1
